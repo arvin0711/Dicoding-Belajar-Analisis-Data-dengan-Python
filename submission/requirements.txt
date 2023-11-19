@@ -1,0 +1,7 @@
+python==3.11.0
+ipykernal==6.25.1
+numpy==1.25.2
+pandas==2.0.3
+matplotlib==3.7.2
+seaborn==0.12.2
+streamlit==1.25.0
